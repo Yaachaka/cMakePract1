@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++.exe
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/cygdrive/d/MG_Pract/cMakePracts/cMakePract1/Step1_build
 
 CXX_FLAGS = -std=gnu++11
 

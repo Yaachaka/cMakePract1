@@ -119,4 +119,5 @@ CMakeFiles/Tutorial.dir/tutorial.cxx.o: \
  /usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/bits/basic_ios.tcc \
  /usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/bits/ostream.tcc \
  /usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/istream \
- /usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/bits/istream.tcc
+ /usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/bits/istream.tcc \
+ /cygdrive/d/MG_Pract/cMakePracts/cMakePract1/Step1_build/TutorialConfig.h
