@@ -93,6 +93,7 @@ Tutorial_EXTERNAL_OBJECTS =
 Tutorial.exe: CMakeFiles/Tutorial.dir/tutorial.cxx.o
 Tutorial.exe: CMakeFiles/Tutorial.dir/build.make
 Tutorial.exe: MathFunctions/libMathFunctions.a
+Tutorial.exe: MathFunctions/libSqrtLibrary.a
 Tutorial.exe: CMakeFiles/Tutorial.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/d/MG_Pract/cMakePracts/cMakePract1/Step2_build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Tutorial.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Tutorial.dir/link.txt --verbose=$(VERBOSE)
